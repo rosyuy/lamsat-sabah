@@ -1,0 +1,6 @@
+{
+  "name": "Lamsat Sabah | لمسات صباح",
+  "description": "Luxury Beauty & Self-Care Editorial Platform featuring Skincare Encyclopedia, 120+ Natural Masks, AI Beauty Assistant & Personalized Routines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
